@@ -1,0 +1,22 @@
+{
+  "name": "lianui",
+  "version": "0.0.1",
+  "description": "> Lian Ui is quick layout css library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanjs/LianUI.git"
+  },
+  "keywords": [
+    "cssui"
+  ],
+  "author": "zanjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zanjs/LianUI/issues"
+  },
+  "homepage": "https://github.com/zanjs/LianUI#readme"
+}
